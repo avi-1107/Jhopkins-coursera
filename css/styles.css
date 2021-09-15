@@ -72,13 +72,16 @@ h2 {
         width: 100%;
         clear: left;
         margin-top: 2%;
+        padding-top: 5%;
     }
     .box1 {
         width: 100%;
+        padding-top: 5%;
     }
     .box2 {
         width: 100%;
         clear: left;
         margin-top: 2%;
+        padding-top: 5%;
     }
 }
